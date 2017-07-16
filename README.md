@@ -1,5 +1,22 @@
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
+# NOTE
+这个配置是从https://github.com/amix/vimrc.git fork的，然后根据个人喜好改了些配置, 只限个人使用, 不准备共享. 
+
+## 用法:
+1.  安装:
+
+```
+    git clone git@github.com:markguo/myvimconf.git ~/.vim_runtime
+    sh ~/.vim_runtime/install_basic_vimrc.sh
+```
+
+2. 与 amix 同步
+
+```
+    git remote add upstream        https://github.com/amix/vimrc.git
+```
+
 # The Ultimate vimrc
 
 Over the last 10 years, I have used and tweaked Vim. This configuration is the ultimate vimrc (or at least my version of it).
